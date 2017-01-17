@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/fileList.xml</file>
+        <file>src/serSet.xml</file>
+        <file>src/readme.txt</file>
+        <file>src/serSet - 副本.xml</file>
+    </qresource>
+</RCC>
